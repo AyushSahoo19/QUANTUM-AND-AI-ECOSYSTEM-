@@ -431,8 +431,6 @@ Welcome to the AI & Quantum Computing Learning Resources repository! This reposi
 
 ## Siraj Raval
 
-![Siraj Raval Logo](https://your-logo-url.com/siraj-raval-logo.png)
-
 | **Repository** | **Description** |
 |----------------|-----------------|
 | [Sirajology/AI-For-Beginners](https://github.com/Sirajology/AI-For-Beginners) | This repository contains materials for learning AI, including tutorials, courses, and projects aimed at beginners. |
@@ -440,8 +438,6 @@ Welcome to the AI & Quantum Computing Learning Resources repository! This reposi
 ---
 
 ## Andrew Ng
-
-![Andrew Ng Logo](https://your-logo-url.com/andrew-ng-logo.png)
 
 | **Repository** | **Description** |
 |----------------|-----------------|
@@ -451,7 +447,6 @@ Welcome to the AI & Quantum Computing Learning Resources repository! This reposi
 
 ## Sentdex (Harrison Kinsley)
 
-![Sentdex Logo](https://your-logo-url.com/sentdex-logo.png)
 
 | **Repository** | **Description** |
 |----------------|-----------------|
@@ -461,7 +456,6 @@ Welcome to the AI & Quantum Computing Learning Resources repository! This reposi
 
 ## Aurélien Géron
 
-![Aurélien Géron Logo](https://your-logo-url.com/aurelien-geron-logo.png)
 
 | **Repository** | **Description** |
 |----------------|-----------------|
@@ -471,8 +465,6 @@ Welcome to the AI & Quantum Computing Learning Resources repository! This reposi
 
 ## IBM Developer
 
-![IBM Developer Logo](https://your-logo-url.com/ibm-developer-logo.png)
-
 | **Repository** | **Description** |
 |----------------|-----------------|
 | [IBM/learning-resources](https://github.com/IBM/learning-resources) | A collection of learning resources and roadmaps for various IBM technologies, including AI, quantum computing, and cloud services. |
@@ -480,8 +472,6 @@ Welcome to the AI & Quantum Computing Learning Resources repository! This reposi
 ---
 
 ## Sebastian Raschka
-
-![Sebastian Raschka Logo](https://your-logo-url.com/sebastian-raschka-logo.png)
 
 | **Repository** | **Description** |
 |----------------|-----------------|
@@ -491,7 +481,6 @@ Welcome to the AI & Quantum Computing Learning Resources repository! This reposi
 
 ## Jeremy Howard
 
-![Jeremy Howard Logo](https://your-logo-url.com/jeremy-howard-logo.png)
 
 | **Repository** | **Description** |
 |----------------|-----------------|
@@ -501,8 +490,6 @@ Welcome to the AI & Quantum Computing Learning Resources repository! This reposi
 
 ## Quantum AI Team at Google
 
-![Quantum AI Logo](https://your-logo-url.com/quantum-ai-logo.png)
-
 | **Repository** | **Description** |
 |----------------|-----------------|
 | [quantumlib/Cirq](https://github.com/quantumlib/Cirq) | Cirq is a Python library for writing, manipulating, and optimizing quantum circuits, and running them against quantum computers and simulators. |
@@ -511,7 +498,6 @@ Welcome to the AI & Quantum Computing Learning Resources repository! This reposi
 
 ## Microsoft Quantum
 
-![Microsoft Quantum Logo](https://your-logo-url.com/microsoft-quantum-logo.png)
 
 | **Repository** | **Description** |
 |----------------|-----------------|
@@ -520,8 +506,6 @@ Welcome to the AI & Quantum Computing Learning Resources repository! This reposi
 ---
 
 ## TensorFlow Community
-
-![TensorFlow Logo](https://your-logo-url.com/tensorflow-logo.png)
 
 | **Repository** | **Description** |
 |----------------|-----------------|
