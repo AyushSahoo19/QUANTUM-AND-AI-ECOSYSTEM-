@@ -527,18 +527,7 @@ Welcome to the AI & Quantum Computing Learning Resources repository! This reposi
 |----------------|-----------------|
 | [tensorflow/models](https://github.com/tensorflow/models) | Contains implementations of state-of-the-art machine learning models using TensorFlow, along with tutorials and guides. |
 
----
 
-## Contributing
 
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-![Footer Logo](https://your-logo-url.com/footer.png)
 
 > "Empowering developers to innovate with the power of Quantum and AI."
